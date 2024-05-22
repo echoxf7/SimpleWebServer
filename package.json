@@ -15,5 +15,9 @@
     "url": "https://github.com/echoxf7/SimpleWebServer/issues"
   },
   "homepage": "https://github.com/echoxf7/SimpleWebServer#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "http": "^0.0.1-security"
+  }
 }
