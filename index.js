@@ -1,7 +1,7 @@
 const express = require("express");
 const fs = require("fs");
 const PORT = 8000;
-const url = `http://localhost:${PORT}`; // Use http instead of https for localhost
+const url = `http://localhost:${PORT}`; 
 
 const app = express();
 
